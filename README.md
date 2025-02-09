@@ -1,4 +1,2 @@
 # Portfolio
-# This is my portfolio
-theme: jekyll-theme-dinky
-
+This is my portfolio
